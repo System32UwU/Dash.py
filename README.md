@@ -34,6 +34,8 @@ Placeholder gun sprite: pngwing.com/en/free-png-tslui
 
 Placeholder door sprite: nicepng.com/ourpic/u2q8q8a9e6o0t4w7_open-door-png-open-wooden-door-png/
 
+Placeholder dash pie sprite: pngwing.com/en/free-png-dpktd
+
 Death SFX: youtube.com/watch?v=Q5tmeV85t6I
 
 Game Over SFX: youtube.com/watch?v=s5B188EFlvE
@@ -46,6 +48,12 @@ Level 1 placeholder background image: reddit.com/r/wallpaper/comments/bm3tf6/pix
 
 Level 2 placeholder background image: wallpapercave.com/w/wp6731114
 
+Level 3 placeholder background image: github.com/spartrekus/Totally-Libre-Free-GNU-Matrix-Wallpaper-1920x1080
+
 Level 1 placeholder BGM: youtube.com/watch?v=ZaPPBRyV5aU
 
 Level 2 placeholder BGM: youtube.com/watch?v=2FdGl5__ims
+
+Level 3 placeholder BGM: youtube.com/watch?v=p_hgRLp-y_s
+
+Dash pie placeholder BGM: Sonic the Hedgehog - invincibility theme - by SEGA
